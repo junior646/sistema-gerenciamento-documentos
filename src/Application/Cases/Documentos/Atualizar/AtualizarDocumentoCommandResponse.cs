@@ -1,0 +1,2 @@
+﻿namespace Application.Cases.Documentos.Atualizar;
+public record AtualizarDocumentoCommandResponse;
